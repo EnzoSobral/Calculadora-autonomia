@@ -2,7 +2,6 @@
 # ⚡ Calculadora de Autonomia para Carros Elétricos
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![JavaScript](https://img.shields.io/badge/javascript-vanilla-yellow)
 ![HTML](https://img.shields.io/badge/html-5-orange)
 ![CSS](https://img.shields.io/badge/css-3-blueviolet)
@@ -43,7 +42,7 @@ E o sistema retorna automaticamente:
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
+- JavaScript 
 
 ---
 
@@ -58,7 +57,3 @@ O objetivo do projeto é demonstrar como conceitos simples de matemática podem 
 Desenvolvido por **Enzo Sobral**
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
